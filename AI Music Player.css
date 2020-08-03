@@ -1,0 +1,20 @@
+.heading{
+    width: 100%;
+    font-size: 19px;
+    margin-top: 0px;
+}
+
+.note{
+    font-size: 15px;
+}
+
+#song{
+    font-size: 19px;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid royalblue;
+    border-radius: 20px;
+    margin-top: 200px;
+}
